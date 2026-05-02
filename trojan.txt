@@ -2,6 +2,7 @@ trojan://0D6iERM98X@hield.ru:4522?type=tcp&security=reality&pbk=rNk7SyowPKUnEtnE
 trojan://1A0zx4S4Uf@hield.ru:4522?type=tcp&security=reality&pbk=rNk7SyowPKUnEtnELIhVValn0AHY9rwxrtcEOkzgSBY&fp=chrome&sni=google.com&sid=3d&spx=/#t-74t5zc933111
 trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#@V2rayNG3
 trojan://2FP6O11Ied@world-of.ru:8443?type=tcp&security=reality&pbk=Z7iLIa9pKRwXaLvn-FivEdp-nHnhiAGtXPtM3Po_Aws&fp=chrome&sni=google.com&sid=0f802cbf8f33ff&spx=/#4-yxtc3xpct115
+trojan://39edcbab-49dd-4326-9f77-305c2e45d45c@svip-sg.xiaobaivpn.icu:28815?security=tls&sni=svip-sg.xiaobaivpn.icu#
 trojan://4v0MbMY80Z@hield.ru:4522?type=tcp&security=reality&pbk=rNk7SyowPKUnEtnELIhVValn0AHY9rwxrtcEOkzgSBY&fp=chrome&sni=google.com&sid=3d&spx=/#t-h275kv8m3120
 trojan://5CF2guX1Hm@world-of.ru:8443?type=tcp&security=reality&pbk=Z7iLIa9pKRwXaLvn-FivEdp-nHnhiAGtXPtM3Po_Aws&fp=chrome&sni=google.com&sid=0f802cbf8f33ff&spx=/#4-9k71mtzct107
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#@V2rayNG3
