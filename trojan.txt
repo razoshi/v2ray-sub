@@ -1,4 +1,5 @@
 trojan://0D6iERM98X@hield.ru:4522?type=tcp&security=reality&pbk=rNk7SyowPKUnEtnELIhVValn0AHY9rwxrtcEOkzgSBY&fp=chrome&sni=google.com&sid=3d&spx=/#t-62o36kc23110
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#
 trojan://1A0zx4S4Uf@hield.ru:4522?type=tcp&security=reality&pbk=rNk7SyowPKUnEtnELIhVValn0AHY9rwxrtcEOkzgSBY&fp=chrome&sni=google.com&sid=3d&spx=/#t-74t5zc933111
 trojan://2FP6O11Ied@world-of.ru:8443?type=tcp&security=reality&pbk=Z7iLIa9pKRwXaLvn-FivEdp-nHnhiAGtXPtM3Po_Aws&fp=chrome&sni=google.com&sid=0f802cbf8f33ff&spx=/#4-yxtc3xpct115
 trojan://4v0MbMY80Z@hield.ru:4522?type=tcp&security=reality&pbk=rNk7SyowPKUnEtnELIhVValn0AHY9rwxrtcEOkzgSBY&fp=chrome&sni=google.com&sid=3d&spx=/#t-h275kv8m3120
