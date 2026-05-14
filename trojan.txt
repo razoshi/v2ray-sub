@@ -1,6 +1,5 @@
 trojan://162534@129.226.163.56:8388?allowInsecure=1&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/?ed=2560&https://t.me/WangCai2
 trojan://162534@138.124.111.115:443?allowInsecure=1&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/?ed=2560&https://t.me/WangCai2
-trojan://1A0zx4S4Uf@hield.ru:4522?type=tcp&security=reality&pbk=rNk7SyowPKUnEtnELIhVValn0AHY9rwxrtcEOkzgSBY&fp=chrome&sni=google.com&sid=3d&spx=/#t-74t5zc933111
 trojan://2FP6O11Ied@world-of.ru:8443?type=tcp&security=reality&pbk=Z7iLIa9pKRwXaLvn-FivEdp-nHnhiAGtXPtM3Po_Aws&fp=chrome&sni=google.com&sid=0f802cbf8f33ff&spx=/#4-yxtc3xpct115
 trojan://4v0MbMY80Z@hield.ru:4522?type=tcp&security=reality&pbk=rNk7SyowPKUnEtnELIhVValn0AHY9rwxrtcEOkzgSBY&fp=chrome&sni=google.com&sid=3d&spx=/#t-h275kv8m3120
 trojan://AUSGAv2sl9@hield.ru:4522?type=tcp&security=reality&pbk=rNk7SyowPKUnEtnELIhVValn0AHY9rwxrtcEOkzgSBY&fp=chrome&sni=google.com&sid=3d&spx=/#t-bkte8gea3114
@@ -23,5 +22,4 @@ trojan://lwXISYz6h3@hield.ru:4522?type=tcp&security=reality&pbk=rNk7SyowPKUnEtnE
 trojan://piOZd4TD4D@hield.ru:4522?type=tcp&security=reality&pbk=rNk7SyowPKUnEtnELIhVValn0AHY9rwxrtcEOkzgSBY&fp=chrome&sni=google.com&sid=3d&spx=/#t-a6tlrfa63117
 trojan://qCyogXzCrv@hield.ru:4522?type=tcp&security=reality&pbk=rNk7SyowPKUnEtnELIhVValn0AHY9rwxrtcEOkzgSBY&fp=chrome&sni=google.com&sid=3d&spx=/#t-zs57gl7g3115
 trojan://ssG9UduDtH@world-of.ru:8443?type=tcp&security=reality&pbk=Z7iLIa9pKRwXaLvn-FivEdp-nHnhiAGtXPtM3Po_Aws&fp=chrome&sni=google.com&sid=0f802cbf8f33ff&spx=/#4-kngga3gpt120
-trojan://x0vPrzwEnX@world-of.ru:8443?type=tcp&security=reality&pbk=Z7iLIa9pKRwXaLvn-FivEdp-nHnhiAGtXPtM3Po_Aws&fp=chrome&sni=google.com&sid=0f802cbf8f33ff&spx=/#4-5kxj0iagt111
 trojan://zoW6GFnKDN@hield.ru:4522?type=tcp&security=reality&pbk=rNk7SyowPKUnEtnELIhVValn0AHY9rwxrtcEOkzgSBY&fp=chrome&sni=google.com&sid=3d&spx=/#t-b47sddmk3116
