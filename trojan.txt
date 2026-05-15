@@ -7,8 +7,6 @@ trojan://U3DIQ27oz2@world-of.ru:8443?type=tcp&security=reality&pbk=Z7iLIa9pKRwXa
 trojan://XDLacbwqH6@hield.ru:4522?type=tcp&security=reality&pbk=rNk7SyowPKUnEtnELIhVValn0AHY9rwxrtcEOkzgSBY&fp=chrome&sni=google.com&sid=3d&spx=/#t-ms15p0xv3119
 trojan://bb5b1337-fa9e-4e00-b8c6-1110e626171d@sg-01.tiktokcdn.top:443?security=tls&headerType=none&type=tcp#🌍
 trojan://cF4xNiMSoD@world-of.ru:8443?type=tcp&security=reality&pbk=Z7iLIa9pKRwXaLvn-FivEdp-nHnhiAGtXPtM3Po_Aws&fp=chrome&sni=google.com&sid=0f802cbf8f33ff&spx=/#4-ikimwbzht119
-trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=/assignment#
-trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#
 trojan://ktjuVpRxJn@world-of.ru:8443?type=tcp&security=reality&pbk=Z7iLIa9pKRwXaLvn-FivEdp-nHnhiAGtXPtM3Po_Aws&fp=chrome&sni=google.com&sid=0f802cbf8f33ff&spx=/#4-22gfwai2t117
 trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#@V2rayNG3
 trojan://lwXISYz6h3@hield.ru:4522?type=tcp&security=reality&pbk=rNk7SyowPKUnEtnELIhVValn0AHY9rwxrtcEOkzgSBY&fp=chrome&sni=google.com&sid=3d&spx=/#t-7tv6obxw3118
